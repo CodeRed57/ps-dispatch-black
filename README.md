@@ -23,13 +23,9 @@ Do not create issues on GitHub if you need help. Issues are for bug reporting an
 ## Short Notifications
 Dispatch notifications are sent containing only the alert name, omitting additional details to help over populated servers. For more information, the dispatch menu can be accessed. Can be configured on [Config.ShortCalls](https://github.com/Project-Sloth/ps-dispatch/blob/40ffc466ec7ffa14faaf40a68e8b3a9a92c72db6/shared/config.lua#L3C1-L3C18), false by default.
 
-<img src="https://github.com/Project-Sloth/ps-dispatch/assets/82112471/7671b361-88aa-42f6-9cd9-32d0fd94881e" width="600">
-
-## Long Notifications
-<img src="https://github.com/Project-Sloth/ps-dispatch/assets/82112471/42f84fc1-a30a-441e-8e00-618a0dfde0f3" width="600">
 
 ## Dispatch Menu
-<img src="https://github.com/Project-Sloth/ps-dispatch/assets/82112471/f2b111b2-60c3-428e-b12a-1bfed617f09e" width="800">
+![General](https://media.discordapp.net/attachments/1086301780121501718/1199434498891321474/Screenshot_2024-01-17_061617.png?ex=65c2876c&is=65b0126c&hm=16c39830b46615d4be1f03f25068e10aa78f10f967868c56c11ff8fa156135ea&=&format=webp&quality=lossless&width=375&height=529)
 
 # Change Language.
 
